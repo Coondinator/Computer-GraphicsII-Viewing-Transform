@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Lab1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Lab2.cpp
+c:\users\leo\desktop\lab2\lab2 program\project6\lab2.cpp(162): warning C4172: 返回局部变量或临时变量的地址: highest_point
+c:\users\leo\desktop\lab2\lab2 program\project6\lab2.cpp(148): warning C4172: 返回局部变量或临时变量的地址: lowest_point
+  Project6.vcxproj -> C:\Users\Leo\Desktop\Lab2\Lab2 program\Debug\Lab2.exe
